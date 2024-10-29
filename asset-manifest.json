@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/serverless-price-tracker-3/static/css/main.ae65677b.css",
+    "main.js": "/serverless-price-tracker-3/static/js/main.d3e2a4e8.js",
+    "static/js/453.95a3a031.chunk.js": "/serverless-price-tracker-3/static/js/453.95a3a031.chunk.js",
+    "index.html": "/serverless-price-tracker-3/index.html",
+    "main.ae65677b.css.map": "/serverless-price-tracker-3/static/css/main.ae65677b.css.map",
+    "main.d3e2a4e8.js.map": "/serverless-price-tracker-3/static/js/main.d3e2a4e8.js.map",
+    "453.95a3a031.chunk.js.map": "/serverless-price-tracker-3/static/js/453.95a3a031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae65677b.css",
+    "static/js/main.d3e2a4e8.js"
+  ]
+}
